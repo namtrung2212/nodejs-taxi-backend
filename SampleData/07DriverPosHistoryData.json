@@ -1,0 +1,24 @@
+[{"DriverName":"Nguyễn Văn A1","DriverCitizenID":"259000001","Location":[10.751023,106.624052],"Degree":60,"Speed":66},
+{"DriverName":"Nguyễn Văn A2","DriverCitizenID":"259000002","Location":[10.762086,106.653095],"Degree":46,"Speed":55},
+{"DriverName":"Nguyễn Văn A3","DriverCitizenID":"259000003","Location":[10.713186,106.602195],"Degree":26,"Speed":32},
+{"DriverName":"Nguyễn Văn A4","DriverCitizenID":"259000004","Location":[10.703146,106.615215],"Degree":163,"Speed":64},
+{"DriverName":"Nguyễn Văn A5","DriverCitizenID":"259000005","Location":[10.714526,106.653695],"Degree":253,"Speed":55},
+{"DriverName":"Nguyễn Văn A6","DriverCitizenID":"259000006","Location":[10.703286,106.622595],"Degree":13,"Speed":74},
+{"DriverName":"Nguyễn Văn A7","DriverCitizenID":"259000007","Location":[10.723246,106.602125],"Degree":169,"Speed":36},
+
+{"DriverName":"Nguyễn Văn A8","DriverCitizenID":"259000008","Location":[10.755023,106.624052],"Degree":60,"Speed":66},
+{"DriverName":"Nguyễn Văn A9","DriverCitizenID":"259000009","Location":[10.762686,106.652095],"Degree":46,"Speed":55},
+{"DriverName":"Nguyễn Văn A10","DriverCitizenID":"259000010","Location":[10.713786,106.607195],"Degree":26,"Speed":32},
+{"DriverName":"Nguyễn Văn A11","DriverCitizenID":"259000011","Location":[10.703846,106.611215],"Degree":163,"Speed":64},
+{"DriverName":"Nguyễn Văn A12","DriverCitizenID":"259000012","Location":[10.714926,106.658695],"Degree":253,"Speed":55},
+{"DriverName":"Nguyễn Văn A13","DriverCitizenID":"259000013","Location":[10.703586,106.622595],"Degree":13,"Speed":74},
+{"DriverName":"Nguyễn Văn A14","DriverCitizenID":"259000014","Location":[10.723246,106.608125],"Degree":169,"Speed":36},
+
+
+{"DriverName":"Nguyễn Văn A15","DriverCitizenID":"259000015","Location":[10.765023,106.644052],"Degree":60,"Speed":66},
+{"DriverName":"Nguyễn Văn A16","DriverCitizenID":"259000016","Location":[10.722686,106.642095],"Degree":46,"Speed":55},
+{"DriverName":"Nguyễn Văn A17","DriverCitizenID":"259000017","Location":[10.743786,106.637195],"Degree":26,"Speed":32},
+{"DriverName":"Nguyễn Văn A18","DriverCitizenID":"259000018","Location":[10.733846,106.621215],"Degree":163,"Speed":64},
+{"DriverName":"Nguyễn Văn A19","DriverCitizenID":"259000019","Location":[10.714926,106.648695],"Degree":253,"Speed":55},
+{"DriverName":"Nguyễn Văn A20","DriverCitizenID":"259000020","Location":[10.773586,106.632595],"Degree":13,"Speed":74},
+{"DriverName":"Nguyễn Văn A21","DriverCitizenID":"259000021","Location":[10.753246,106.678125],"Degree":169,"Speed":36}]

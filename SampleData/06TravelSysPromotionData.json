@@ -1,0 +1,1 @@
+[{"Country":"VN","VehicleType":null,"QualityService":null,"Priority":0,"PickupCenterLoc":[10.751023,106.624052],"PickupRadian":500000,"EffectDateFrom":"2010-07-24T17:00:00.00","EffectDateTo":null,"TimeInDayFrom":0,"TimeInDayTo":24,"MinServedQty":0,"MaxServedQty":10000,"FromKm":0,"Currency":"VND","PromotePct":0, "FixedAmtPerKm" : 1000}]

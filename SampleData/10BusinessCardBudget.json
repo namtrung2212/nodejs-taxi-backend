@@ -1,0 +1,55 @@
+[
+{
+
+
+      "CorpName" : {type: String, default: null},
+      "CorpAddress" : {type: String, default: null},
+      "CorpCountry" : {type: String,trim: true, default: "VN"},
+      "CorpProvince" : {type: String,trim: true,default: null},
+
+              "IsPersonal" : {type: Number, default: 1},
+              "Currency" : {type: String,required: true, default: 'VND'},
+
+              "Manager" : { type: ObjectId, ref: 'User' , default: null },
+
+              "AutoActivateDate" : {type: Date, default: null},
+              "IsActivated" : {type: Number, default: 0},
+              "ActivatedDate" : {type: Date, default: null},
+
+                  "AssignedUser" : { type: ObjectId, ref: 'User' , default: null },
+                  "IsOverBudget" : {type: Number, default: 0},
+                  "PayableAmount" : {type: Number, default: 0},
+
+                  "WeeklyBudget" : {type: Number, default: 0},
+                  "MonthlyBudget" : {type: Number, default: 0},
+                  "QuarterlyBudget" : {type: Number, default: 0},
+                  "YearlyBudget" : {type: Number, default: 0},
+
+
+
+  "CorpName":"Đào Nam Trung",
+  "CorpAddress":84905798117,
+  "CorpProvince" : "VND",
+  "IsPersonal" : 0,
+  "Currency" : "VND",
+
+  "BankAccOwner" : "ĐÀO NAM TRUNG",
+  "CardType" : "Visa Debit",
+  "CardNo" : "023123464787",
+  "CardExpireDate" : "2019-12-31T00:00:00.00",
+  "SecurityCode" : "123",
+  "IsVerified" : 1
+},
+{
+  "UserName":"Đào Nam Trung",
+  "UserPhoneNo":84905798117,
+  "Currency" : "VND",
+  "Bank" : "Techcombank",
+  "BankAccOwner" : "ĐÀO NAM TRUNG",
+  "CardType" : "Visa Debit",
+  "CardNo" : "10214436464",
+  "CardExpireDate" : "2017-1-31T00:00:00.00",
+  "SecurityCode" : "463",
+  "IsVerified" : 1
+}
+]

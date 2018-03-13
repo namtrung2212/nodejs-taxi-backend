@@ -1,0 +1,28 @@
+[
+{
+  "UserName":"Đào Nam Trung",
+  "UserPhoneNo":84905798117,
+  "Currency" : "VND",
+  "Bank" : "Vietcombank",
+  "BankAcc" : "13140021540",
+  "BankAccOwner" : "ĐÀO NAM TRUNG",
+  "CardType" : "Visa Debit",
+  "CardNo" : "023123464787",
+  "CardExpireDate" : "2018-02-11T17:00:00.02",
+  "SecurityCode" : "123",
+  "IsVerified" : 1
+},
+{
+  "UserName":"Đào Nam Trung",
+  "UserPhoneNo":84905798117,
+  "Currency" : "VND",
+  "Bank" : "Techcombank",
+  "BankAcc" : "02315431446",
+  "BankAccOwner" : "ĐÀO NAM TRUNG",
+  "CardType" : "Visa Debit",
+  "CardNo" : "10214436464",
+  "CardExpireDate" : "2019-05-14T17:00:00.02",
+  "SecurityCode" : "463",
+  "IsVerified" : 1
+}
+]
